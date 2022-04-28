@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+}
+
+header h1 {
+}
+
+header nav {
+}
+
+header ul {
+}
+
+header nav ul {
+    
+}
+
+.hero {
+    background-image: url("https://static.fullstack-bootcamp.com/module-2/flipped-hero-image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+ 
